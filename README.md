@@ -37,22 +37,22 @@ This day introduces Infrastructure as Code (IaC) using AWS CloudFormation. How t
 Project: I worked on creating a CloudFormation template that provisions a fully configured application stack, including EC2 instances, networking components, and security groups.
 
 # Day 10: AWS Elastic Beanstalk
-You'll explore AWS Elastic Beanstalk, a fully managed service for deploying and scaling applications. You'll learn how to deploy applications using Elastic Beanstalk, configure environments, and manage deployments effortlessly.
+Explored AWS Elastic Beanstalk, a fully managed service for deploying and scaling applications. You'll learn how to deploy applications using Elastic Beanstalk, configure environments, and manage deployments effortlessly.
 Project: You'll deploy a sample application with a custom environment and configuration using Elastic Beanstalk.
 
 # Day 11: AWS CodeCommit
 This day focuses on AWS CodeCommit, a managed source control service. How to set up a Git repository in CodeCommit, collaborate with team members, and manage version control of your codebase.
 Project: configured a CodeCommit repository for a team project, including setting up access control and collaboration workflows.
 
-Day 12: AWS CodePipeline
- Dived into AWS CodePipeline, a fully managed continuous delivery service. How to build end-to-end CI/CD pipelines by configuring source, build, and deployment stages, automating the entire software release process.
+# Day 12: AWS CodePipeline
+Dived into AWS CodePipeline, a fully managed continuous delivery service. How to build end-to-end CI/CD pipelines by configuring source, build, and deployment stages, automating the entire software release process.
 Project: created a CI/CD pipeline using CodePipeline for an application deployment, including source code integration, build, and automatic deployment to a target environment.
 
-Day 13: AWS CodeBuild
+# Day 13: AWS CodeBuild
 This day focuses on AWS CodeBuild, a fully managed build service. How to configure build projects in CodeBuild, define build specifications, and perform build and testing processes.
 Project: You'll configure and run CodeBuild for a project, including defining build specifications and integrating with other AWS services.
 
-Day 14: AWS CodeDeploy
+# Day 14: AWS CodeDeploy
 explored AWS CodeDeploy, a service for automating application deployments to various compute environments. How to create deployment groups, configure deployment strategies, and perform automatic rollbacks if necessary.
 Project: Implemented a Blue/Green deployment strategy for a sample application using CodeDeploy, ensuring zero-downtime deployments and easy rollback options.
 
@@ -87,11 +87,11 @@ Project: Built a CI/CD pipeline that automatically builds, pushes, and deploys D
 This day introduces AWS EKS, a fully managed Kubernetes service. Deployed and managed Kubernetes clusters using EKS, including launching worker nodes, configuring networking, and deploying applications using Kubernetes manifests.
 Project: Deployed a sample application on EKS using Kubernetes manifests, demonstrating the capabilities of running containerized applications on a managed Kubernetes service.
 
-Day 23: AWS CloudWatch Logs
-You'll explore AWS CloudWatch Logs, a service for collecting and analyzing log data. You'll learn how to configure log groups, streams, and filters to centralize log management and gain insights into application behavior and troubleshooting.
+# Day 23: AWS CloudWatch Logs
+Explored AWS CloudWatch Logs, a service for collecting and analyzing log data.How to configure log groups, streams, and filters to centralize log management and gain insights into application behavior and troubleshooting.
 Project: You'll set up CloudWatch Logs for a production application, configure log groups and streams, and create filters to extract relevant log data.
 
-Day 24: AWS Secrets Manager
+# Day 24: AWS Secrets Manager
 This day focuses on AWS Secrets Manager, a service for storing and managing secrets such as database credentials, API keys, and other sensitive information. How to store, retrieve, and rotate secrets securely in your applications.
 Project: Configured Secrets Manager to store and manage secrets, integrate secret retrieval in an application, and implement secret rotation policies.
 
