@@ -1,7 +1,7 @@
 # MY-AWS-CLOUD-PROJECTS
 
 # Day 1: Introduction to AWS
-I will explain the concepts of private and public cloud, outline the reasons why companies are migrating to the public cloud, and discuss the benefits associated with cloud adoption. Additionally, I will provide an overview of key AWS services and their relevance to DevOps practices. Finally, I will offer guidance on setting up an AWS account and navigating the AWS Management Console.
+I explained the concepts of private and public cloud, outline the reasons why companies are migrating to the public cloud, and discuss the benefits associated with cloud adoption. Additionally, I will provide an overview of key AWS services and their relevance to DevOps practices. Finally, I will offer guidance on setting up an AWS account and navigating the AWS Management Console.
 
 # Day 2: IAM (Identity and Access Management)
 I explored IAM, which is used for managing access to AWS resources. how to create IAM users, groups, and roles, and how to apply permissions and security best practices to ensure proper access control.
@@ -17,7 +17,7 @@ I explored AWS networking concepts, with a specific focus on VPC (Virtual Privat
 This day emphasizes security best practices in AWS. How to implement security measures such as security groups, network ACLs (Access Control Lists), and IAM policies to ensure the confidentiality, integrity, and availability of your AWS resources.
 
 Day 6: AWS Route 53
-Project: Configure and manage a domain name using Route 53. I registered a domain, set up DNS records, and explored advanced features such as health checks, routing policies, and DNS-based failover.
+Project: Configured and managed a domain name using Route 53. I registered a domain, set up DNS records, and explored advanced features such as health checks, routing policies, and DNS-based failover.
 
 # Day 7: Secure VPC Setup with EC2 Instances
 Project:
