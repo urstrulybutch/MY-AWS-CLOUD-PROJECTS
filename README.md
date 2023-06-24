@@ -1,7 +1,7 @@
 # MY-AWS-CLOUD-PROJECTS
 
 # Day 1: Introduction to AWS
-I explained the concepts of private and public cloud, outline the reasons why companies are migrating to the public cloud, and discuss the benefits associated with cloud adoption. Additionally, I will provide an overview of key AWS services and their relevance to DevOps practices. Finally, I will offer guidance on setting up an AWS account and navigating the AWS Management Console.
+I explained the concepts of private and public cloud, outlined the reasons why companies are migrating to the public cloud, and discuss the benefits associated with cloud adoption. Additionally, I will provide an overview of key AWS services and their relevance to DevOps practices. Finally, I will offer guidance on setting up an AWS account and navigating the AWS Management Console.
 
 # Day 2: IAM (Identity and Access Management)
 I explored IAM, which is used for managing access to AWS resources. how to create IAM users, groups, and roles, and how to apply permissions and security best practices to ensure proper access control.
