@@ -7,3 +7,5 @@ I explored IAM, which is used for managing access to AWS resources. how to creat
 
 ![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/CREATED%20A%20USER%20GROUP.png)
 
+# HERE I WAS ABLE TO ALLOCATE POLICIES TO USERS
+![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/ALLOCATED%20POLICIES.png)
