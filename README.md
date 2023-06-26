@@ -5,3 +5,5 @@ I explained the concepts of private and public cloud, outlined the reasons why c
 
 # CREATED AN AWS ROOT AND IAM-USER ACCOUNT
 ![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/%20AWS%20ACCOUNT%20SCREENSHOT.png)
+
+![]()
