@@ -8,10 +8,16 @@ My First AWS Project: Deployed a simple web application(such as jenkins) on the 
 
 ![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/EC2%20INSTANCE%20RUNNING.png)
 
-# DEPLOYED A WEB APPLICATION AS JENKINS
 
-# INSTALLED JAVA TO ENABLE JENKINS
+
+# INSTALLED JAVA TO ENABLE JENKINS ON UBUNTU
 ![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/installed%20java%20on%20ubuntu%20.png)
 
 # JENKINS CI RUNNING
 ![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/JENKIN%20CI%20RUNNING.png)
+
+
+# LAUNCHED A WEB APPLICATION SUCH AS JENKINS ON THE EC2 INSTANCE FROM OUTSIDE AWS
+
+
+![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/jenkins%20deployed%20application%20working.png)
