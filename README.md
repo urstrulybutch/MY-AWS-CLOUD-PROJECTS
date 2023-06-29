@@ -12,3 +12,6 @@ My First AWS Project: Deployed a simple web application(such as jenkins) on the 
 
 # INSTALLED JAVA TO ENABLE JENKINS
 ![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/installed%20java%20on%20ubuntu%20.png)
+
+# JENKINS CI RUNNING
+![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/JENKIN%20CI%20RUNNING.png)
