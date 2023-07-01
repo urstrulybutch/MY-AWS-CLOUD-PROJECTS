@@ -2,6 +2,10 @@
 # Day 5: AWS Security
 
 Continuing my GitHub project, Day 5 focused on security best practices in AWS. I delved into the implementation of various security measures to uphold the confidentiality, integrity, and availability of AWS resources. Here's a breakdown of what I accomplished and learned:
+
+# Security Group inbound rules allowed
+![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/SECURITY%20GROUP%20INBOUD%20RULES.png)
+
 * 		Security Groups:
     * Explored the concept of security groups, which act as virtual firewalls to control inbound and outbound traffic for AWS resources.
     * Learned how to create and configure security groups to allow or deny specific types of traffic based on port numbers, protocols, and source/destination IP addresses.
