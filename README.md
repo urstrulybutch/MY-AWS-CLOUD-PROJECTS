@@ -2,6 +2,9 @@
 # Day 4: AWS Networking (VPC)
 I dedicated Day 4 to expanding my knowledge of AWS networking concepts, with a specific focus on Virtual Private Cloud (VPC). This deep dive allowed me to understand how to create and configure VPCs, subnets, and route tables, empowering me to design and manage robust network infrastructures for applications.
 Here's a breakdown of what I accomplished and learned:
+
+![]
+
 * 		VPC (Virtual Private Cloud):
     * Explored the fundamental concept of VPC in AWS, which provides a logically isolated section of the AWS Cloud dedicated to my project's resources.
     * Learned how VPC enables complete control over network configurations, including IP address ranges, subnets, route tables, and network gateways.
