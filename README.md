@@ -18,7 +18,10 @@ Here's a breakdown of what I accomplished and learned:
     * Explored the role of route tables in managing traffic within a VPC.
     * Learned how to create and configure route tables to control network traffic flow.
     * Discovered the concept of route prioritisation and how it affects the path of network traffic.
-* 		Network Infrastructure Design and Management:
+ 
+    *![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/NETWORK%20ACL.png)
+    * 
+    * Network Infrastructure Design and Management:
     * Developed a comprehensive understanding of designing and managing network infrastructures for applications in AWS.
     * Learned how to architect VPCs, subnets, and route tables to ensure optimal performance, scalability, and security.
     * Explored best practices for deploying applications within a VPC, including considerations for availability zones, internet gateways, NAT gateways, and security groups.
