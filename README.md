@@ -3,12 +3,14 @@
 I dedicated Day 4 to expanding my knowledge of AWS networking concepts, with a specific focus on Virtual Private Cloud (VPC). This deep dive allowed me to understand how to create and configure VPCs, subnets, and route tables, empowering me to design and manage robust network infrastructures for applications.
 Here's a breakdown of what I accomplished and learned:
 
-![]
-
+![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/VPC%20ACTIVE.png)
 * 		VPC (Virtual Private Cloud):
     * Explored the fundamental concept of VPC in AWS, which provides a logically isolated section of the AWS Cloud dedicated to my project's resources.
     * Learned how VPC enables complete control over network configurations, including IP address ranges, subnets, route tables, and network gateways.
-* 		Subnets:
+ 
+    * ![]
+    * 
+    * * 		Subnets:
     * Understood the importance of subnets within a VPC and how they help in organising and segregating resources.
     * Learned how to create subnets with specific IP address ranges to facilitate efficient resource allocation.
     * Discovered the benefits of subnetting, such as enhanced security, availability, and scalability.
