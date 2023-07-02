@@ -7,15 +7,22 @@ Continuing my GitHub project, Day 5 focused on security best practices in AWS. I
 ![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/SECURITY%20GROUP%20INBOUD%20RULES.png)
 
 
-![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/security%20groups.png)
 * 		Security Groups:
-    * Explored the concept of security groups, which act as virtual firewalls to control inbound and outbound traffic for AWS resources.
+   ![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/security%20groups.png)*
+
+   * Explored the concept of security groups, which act as virtual firewalls to control inbound and outbound traffic for AWS resources.
     * Learned how to create and configure security groups to allow or deny specific types of traffic based on port numbers, protocols, and source/destination IP addresses.
     * Implemented security group rules to restrict access and enhance the security posture of AWS resources.
+ 
+* 		
 * 		Network ACLs (Access Control Lists):
+   ![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/NETWORK%20ACL.png)
+      
     * Understood the role of network ACLs in controlling traffic at the subnet level in a VPC.
     * Learned how to create and configure network ACLs to allow or deny traffic based on rules.
     * Explored the order of evaluation for network ACL rules and their impact on network traffic.
+ 
+    * 
 * 		IAM (Identity and Access Management) Policies:
     * Explored IAM policies as a crucial component of AWS security, governing access to AWS resources.
     * Learned how to create and manage IAM policies to define permissions and access levels for users, groups, and roles.
