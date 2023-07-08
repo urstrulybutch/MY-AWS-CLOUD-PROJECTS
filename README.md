@@ -4,6 +4,8 @@ Key Tasks:
 
 
  # Design and with custom IP ranges to isolate the network.
+
+![](https://github.com/urstrulybutch/MY-AWS-CLOUD-PROJECTS/blob/main/application%20Diagram%20.png) 
     
    I was able to Set up public and private subnets within the VPC to segregate resources.
     
